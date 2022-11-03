@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          PRUEBA REACT PACHECO
+          PRUEBA REACT PACHECO finalizado
         </a>
       </header>
     </div>
